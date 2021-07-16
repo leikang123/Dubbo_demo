@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
  * @author mac1094
  *
  */
+//主类，启动类
 @SpringBootApplication
 public class DubboProvider {
 	public static void main(String[] args) {
